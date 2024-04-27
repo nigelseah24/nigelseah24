@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Nigel!
+### Greetings 👋
 
 - 🌱 I’m currently learning < flutter >
 - 🤔 I’m looking for help with < finding jobs :( >
